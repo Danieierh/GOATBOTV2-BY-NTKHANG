@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "botreadyto@gmail.com",
+    "password": "realdomisted",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100053549552408",
+    "61559692029155",
     "61557118090040",
     "100041394069745",
     "61560240322838",
@@ -28,12 +28,12 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Cliff Vincent",
+  "OWNER": "Dawson walter",
   "AGE": "18",
   "GENDER": "MALE",
-  "nickNameBot": "Yazkybot",
-  "FACEBOOK": "https://www.facebook.com/swordigo.swordslush",
-  "prefix": "✓",
+  "nickNameBot": "dawson research",
+  "FACEBOOK": "https://www.facebook.com/profile.php?id=61559692029155",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
